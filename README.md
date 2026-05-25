@@ -18,4 +18,4 @@ Ce projet est une amélioration du site web "Dynamic Partner", une entreprise sp
 
 ##  Liens Utiles
 * **Lien de la vidéo de présentation :** [Insère ton lien Drive/YouTube ici]
-* **Lien du site en direct (Netlify/Vercel) :** [Insère ton lien Netlify ici]
+* **Lien du site en direct (Netlify/Vercel) :** dynamic-partner.vercel.app
